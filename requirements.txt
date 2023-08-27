@@ -7,4 +7,6 @@ seaborn
 xgboost
 catboost
 scikit-learn
--e .
+dill
+os-sys
+#-e .
