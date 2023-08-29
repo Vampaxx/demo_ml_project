@@ -120,8 +120,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-# in artifact we use '/' after name,because it is a  folder
-.artifact/ 
 .env
 .venv
 env/
