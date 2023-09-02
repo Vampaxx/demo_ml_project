@@ -2,11 +2,10 @@ pandas
 numpy
 seaborn
 matplotlib
-pyspark
 seaborn
+flask
 xgboost
 catboost
 scikit-learn
 dill
-os-sys
 #-e .
